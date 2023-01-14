@@ -16,8 +16,7 @@
 <h3>NRC 8001</h3>
 <h3>  </h3>
 <p>Luis Cueva</p>
-<p>Erick Ramirez</p>
-<p>Lisbeth Carvajal</p>
+<p>Josue Merino</p>
 
 <p>/////////////</p>
 
