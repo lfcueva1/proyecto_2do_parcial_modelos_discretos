@@ -18,6 +18,6 @@
 <p>Luis Cueva</p>
 <p>Josue Merino</p>
 
-<p>/////////////</p>
+<h2>SEGUNDO PARCIAL.</h2>
 
 <br>
