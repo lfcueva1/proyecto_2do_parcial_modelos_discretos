@@ -39,7 +39,7 @@ def palabra_mas_larga(cadena):
         cadena : str
     Retorna:
     ------------
-        Esta funcion no retorna ningun tipo de dato
+        palabra_mas_larga : str
     '''
     #declaro una variable tipo str para guardar la palabra mas larga al recorrer la orcion
     palabra_mas_larga = ""
